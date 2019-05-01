@@ -5,6 +5,8 @@ The files in this repository relate to the AKI Diagnostics economic model, which
 
 The AKI Diagnostics economic model provided in this code was developed by Alison F Smith from the University of Leeds with supervision from Dr David Meads (Leeds) and Dr Peter Hall (University of Edinburgh). This code is provided under the Creative Commons Attribution Share Alike 4.0 International licence: please therefore appropriately cite the HTA monograph report (above), and this code repository if you wish to use this work. 
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 The AKI Diagnostics project was funded by the NIHR HTA programme, and supported by the NIHR Diagnostic Evidence Co-operative Leeds. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health.
 
 Model Code Outline:
