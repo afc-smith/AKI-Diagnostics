@@ -36,7 +36,13 @@ The ‘Parameters_HOSP.R’ file reads in the following transition probability m
 8.	tp_ICUmort.RData
 9.	tp_ICUdisch_alive.RData
 
-These large data files are too large for github - you need to download them from here: https://www.dropbox.com/sh/lijf3ju0dslqkpp/AADeGN3kj_9BdHzyMoM-gXp4a?dl=0
+These large data files are too large for github - you need to download them from here: 
+
+https://www.dropbox.com/sh/lijf3ju0dslqkpp/AADeGN3kj_9BdHzyMoM-gXp4a?dl=0
+
+or
+
+ftp://ftp.igmm.ed.ac.uk/secret/03479725/AKI-Diagnostics
 
 Details of how these probabilistic transitions were derived using AKI registry data is provided in the HTA report. 
 The Master file runs various arms of the model using the code provided in the seven ‘Model_’ files:
